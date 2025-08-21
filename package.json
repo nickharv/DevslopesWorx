@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "servor --reload",
+    "test": "vitest",
+    "test:run": "vitest run",
+    "test:part1": "vitest part1"
+  },
+  "dependencies": {
+    "servor": "^4.0.2"
+  },
+  "devDependencies": {
+    "vitest": "^1.0.0",
+    "jsdom": "^23.0.0",
+    "node-html-parser": "^6.1.0"
+  }
+}
