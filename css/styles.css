@@ -7,7 +7,7 @@
 
 .fancy-body {
   padding: 60px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: rgba(51, 60, 77, 1);
 }
 
@@ -74,7 +74,7 @@
 }
 
 .fancy-body .dark-part .contacts-table a:after {
-  content: '\2750';
+  content: "\2750";
 }
 
 .fancy-body .light-part h1 {
@@ -124,7 +124,7 @@
 .fancy-body .bio-container h2:after,
 .fancy-body .skills-container h2:after,
 .fancy-body .hobbies-container h2:after {
-  content: '';
+  content: "";
   height: 1px;
   background-color: rgba(51, 60, 77, 0.3);
   width: 100%;
