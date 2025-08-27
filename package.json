@@ -6,6 +6,7 @@
     "test:part1": "vitest part1"
   },
   "dependencies": {
+    "browser": "^0.2.6",
     "servor": "^4.0.2"
   },
   "devDependencies": {
